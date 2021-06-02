@@ -8,6 +8,7 @@ public class MascoGitBasicsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MascoGitBasicsApplication.class, args);
+		System.out.println("Added print command");
 	}
 
 }
